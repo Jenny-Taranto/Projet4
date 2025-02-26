@@ -370,7 +370,8 @@ input[type="submit"] {
 		padding-inline: 0;
 	}
 
-	nav, nav ul {
+	nav,
+	nav ul {
 		width: 100%;
 		padding: 0 0 0 0;
 	}
