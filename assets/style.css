@@ -214,6 +214,10 @@ nav a {
 	z-index: 1;
 }
 
+.price {
+	font-size: 24px
+}
+
 #contact {
 	margin: auto;
 	background-color: #D8D3A8;
@@ -287,7 +291,6 @@ input[type="submit"] {
 		margin-bottom: 1em;
 	}
 
-	#about-me h6,
 	#about-me p {
 		width: 100%;
 	}
